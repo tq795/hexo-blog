@@ -35,3 +35,7 @@ markdown:
     permalinkSymbol: '¶'
     case: 0
     separator: '-'
+# 网址
+url: https://tq4meishijia.pages.dev/
+pretty_urls.trailing_index: false
+pretty_urls.trailing_html: false
