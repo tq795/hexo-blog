@@ -10,7 +10,7 @@ author: 咸鱼
 post_asset_folder: true
 
 # 扩展
-theme: next
+theme: 3-hexo
 
 # 插件
 markdown:
