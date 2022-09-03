@@ -10,7 +10,7 @@ rm -rf source/_posts
 mkdir -p source/_posts
 
 # 安装主题(你们可以改成自己喜欢的主题)
-git clone https://github.com/theme-next/hexo-theme-next themes/next
+git clone https://github.com/yelog/hexo-theme-3-hexo.git themes/3-hexo
 
 # 使用新的渲染器
 npm un hexo-renderer-marked --save
