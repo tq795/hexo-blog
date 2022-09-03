@@ -10,7 +10,7 @@ author: 先辈
 post_asset_folder: true
 
 # 扩展
-theme: 3-hexo
+theme: next
 
 # 插件
 markdown:
