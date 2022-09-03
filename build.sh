@@ -10,7 +10,7 @@ rm -rf source/_posts
 mkdir -p source/_posts
 
 # 安装主题(你们可以改成自己喜欢的主题)
-git clone https://github.com/esappear/hexo-theme-clover themes/clover
+git clone https://github.com/theme-nexmoe/hexo-theme-nexmoe themes/nexmoe
 
 # 使用新的渲染器
 npm un hexo-renderer-marked --save
